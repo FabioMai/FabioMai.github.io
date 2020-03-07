@@ -1,8 +1,8 @@
 # Welcome to my personal site
 
-In the near future this will become my online home, featuring my writings, pictures and my technical portfolio.
+This repo is simply setting up the correct CNAME for the maienschein.me/* projects.
 
-For now find the following ressources here:
+Find the following ressources here:
 - [my Tech portfolio](https://maienschein.tech)
 - [my Travel blog](http://maienschein.me/travel)
 
